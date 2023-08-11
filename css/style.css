@@ -150,12 +150,12 @@ padding-bottom: 40px;
     .two button{
         margin-bottom: 13px;
     }
-    .two .os{
+    . .two .os{
         /* text-align: left; */
-        margin-left: 53px;
+        margin-left: 50px;
         
         
-        width: 200px;
+        width: 90%;
     }
     .three {
         padding: 15px;
