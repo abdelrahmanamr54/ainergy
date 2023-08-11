@@ -157,6 +157,12 @@ padding-bottom: 40px;
         
         width: 90%;
     }
+     .two .os h2{
+        color: #555;
+        font-size: 13px;
+        font-weight: 400;
+        margin-left: 3px;
+    }
     .three {
         padding: 15px;
     }
